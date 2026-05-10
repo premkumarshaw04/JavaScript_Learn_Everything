@@ -1,4 +1,4 @@
-# Variables in JavaScript
+# Variables & Declaration in JavaScript
 
 ## What is a Variable?
 A variable is a container that stores a value.
